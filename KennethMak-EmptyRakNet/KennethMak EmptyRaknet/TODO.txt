@@ -1,0 +1,9 @@
+TODO: MULTIPLAYER SYSTEMS MIDTERM ASSIGNMENT
+
+
+Type Stats at any time
+Client -> Request server info, server -> Client address with all characters
+
+
+
+
