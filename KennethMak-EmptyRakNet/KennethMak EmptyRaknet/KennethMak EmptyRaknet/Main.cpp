@@ -958,7 +958,7 @@ void InputHandler()
 					classSelected = true;
 				}
 				else {
-					std::cout << "Invalid entry! " << std::endl;
+					std::cout << "Invalid entry! Choose your class!" << std::endl;
 				}
 			}
 
